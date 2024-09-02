@@ -1,1 +1,32 @@
 @import "./base/reset.css";
+@import "./base/common.css";
+
+#btn {
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 10px;
+    color: white;
+    background-color: orange;
+    width: 100px;
+}
+
+#btn:hover {
+    color: orange;
+    background-color: rgb(255, 232, 190);
+}
+
+.input {
+    padding: 7px;
+    border: 1px grey solid;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 200px;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

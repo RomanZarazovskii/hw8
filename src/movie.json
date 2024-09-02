@@ -1,0 +1,14 @@
+[{
+    "title": "Lord of the Rings",
+    "year": 2001,
+    "director": "Peter Jackson",
+    "genre": "fantasy",
+    "actors": ["Alijah Wood", "Ian McKellen", "Orlando Bloom"]
+},
+{
+    "title": "Harry Potter",
+    "year": 2001,
+    "director": "Chris Columbus",
+    "genre": "fantasy",
+    "actors": ["Daniel Redkliff", "Emma Watson", "Rupert Grint"]
+}]
